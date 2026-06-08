@@ -1,4 +1,3 @@
-```markdown
 # Portfólio de Projetos - Fatec Jacareí
 
 ### Aluno: Flavio Eduardo Linguanotto  
@@ -90,4 +89,3 @@ Entre os principais projetos, destacam-se:
 - **Portfólio:** [Acessar Portfólio Online](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392313016/#/)
 
 [⬆ Voltar ao topo](#portfólio-de-projetos---fatec-jacareí)
-```
